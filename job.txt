@@ -1,0 +1,19 @@
+Backend Software Engineer
+
+We are looking for a Backend Software Engineer to help build and scale our data platform.
+
+Requirements:
+- Strong experience with Python
+- Solid understanding of SQL and relational databases
+- Experience with AWS cloud services
+- Hands-on experience with Docker
+- Proficiency with Git version control
+- Experience writing tests with pytest
+- Familiarity with Linux command line
+- Excellent communication skills
+
+Nice to have:
+- Experience with Flask
+- Familiarity with JavaScript
+- Exposure to pandas for data analysis
+- Leadership experience mentoring junior engineers

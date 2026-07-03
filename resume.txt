@@ -1,0 +1,22 @@
+Sample Resume
+Software Developer
+
+Summary:
+Software developer with 2 years of experience building backend services and automating
+data workflows. Comfortable working independently and communicating with cross-functional
+teams.
+
+Skills:
+- Python, SQL, Git
+- Docker for containerizing applications
+- Pytest for unit testing
+- Linux command line tools
+- Flask for building small APIs
+- Strong written and verbal communication
+
+Experience:
+Built and maintained internal Python tools for data cleaning and reporting.
+Wrote SQL queries to extract and transform data from relational databases.
+Used Git for version control and collaborated with a small engineering team.
+Containerized services with Docker for consistent deployment.
+

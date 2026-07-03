@@ -1,0 +1,27 @@
+python
+java
+c
+c++
+sql
+mysql
+postgresql
+git
+github
+docker
+kubernetes
+aws
+azure
+linux
+html
+css
+javascript
+flask
+django
+excel
+power bi
+machine learning
+artificial intelligence
+node.js
+react.js
+front-end
+back-end
